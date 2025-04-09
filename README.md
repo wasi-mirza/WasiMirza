@@ -9,40 +9,23 @@ I’m also a **Full Stack Developer at Enerscript Technologies Private Limited**
 ## 🔧 Tech Stack
 I work with a wide range of technologies across both frontend and backend. Here's what I’m currently using:
 
-### 🖥️ **Languages & Frameworks**
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-- ![React.js](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB)
-- ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
-- ![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-- ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+### 🖥️ **Languages & Frameworks**:
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![React.js](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=flat&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
-### 📱 **Mobile Development**
-- ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=white)
-- ![Gradle](https://img.shields.io/badge/Gradle-%2300231E.svg?style=flat&logo=gradle&logoColor=white)
-- ![XCode](https://img.shields.io/badge/Xcode-%2361D6B7.svg?style=flat&logo=xcode&logoColor=white)
+### 📱 **Mobile Development**:
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-%2300231E.svg?style=flat&logo=gradle&logoColor=white) ![XCode](https://img.shields.io/badge/Xcode-%2361D6B7.svg?style=flat&logo=xcode&logoColor=white)
 
-### ⚙️ **Backend & Database**
-- ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
-- ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat&logo=graphql&logoColor=white)
-- ![Prisma](https://img.shields.io/badge/Prisma-%230E6B2B.svg?style=flat&logo=prisma&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%2339B54A.svg?style=flat&logo=mongodb&logoColor=white)
+### ⚙️ **Backend & Database**:
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat&logo=graphql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-%230E6B2B.svg?style=flat&logo=prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2339B54A.svg?style=flat&logo=mongodb&logoColor=white)
 
-### ☁️ **Cloud & Tools**
-- ![Azure](https://img.shields.io/badge/Azure-%23232F3E.svg?style=flat&logo=azure&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
+### ☁️ **Cloud & Tools**:
+![Azure](https://img.shields.io/badge/Azure-%23232F3E.svg?style=flat&logo=azure&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
 
-### 📊 **Project Management & Collaboration**
-- ![Jira](https://img.shields.io/badge/Jira-%230A0F1A.svg?style=flat&logo=jira&logoColor=white)
-- ![ClickUp](https://img.shields.io/badge/ClickUp-%2304C2C9.svg?style=flat&logo=clickup&logoColor=white)
+### 📊 **Project Management & Collaboration**:
+![Jira](https://img.shields.io/badge/Jira-%230A0F1A.svg?style=flat&logo=jira&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-%2304C2C9.svg?style=flat&logo=clickup&logoColor=white)
 
-### 🎨 **Design & UI/UX**
-- ![Figma](https://img.shields.io/badge/Figma-%23324BFF.svg?style=flat&logo=figma&logoColor=white)
+### 🎨 **Design & UI/UX**:
+![Figma](https://img.shields.io/badge/Figma-%23324BFF.svg?style=flat&logo=figma&logoColor=white)
 
 ---
 
