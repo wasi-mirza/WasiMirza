@@ -41,7 +41,7 @@ Here’s a quick view of the languages I use most frequently:
 ## 🏆 GitHub Streaks:
 This chart shows my contribution streak over the past year.
 
-![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=wasi-mirza&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wasi-mirza)](https://git.io/streak-stats)
 
 
 ---
